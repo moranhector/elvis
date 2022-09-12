@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "camera-app",
-    "slug": "camera-app",
-    "version": "1.0.0",
+    "name": "elvis",
+    "slug": "elvis",
+    "version": "0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.moranhector.argentina.elvis"
     },
     "web": {
       "favicon": "./assets/favicon.png"
